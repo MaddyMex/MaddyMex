@@ -6,8 +6,6 @@ I'm a passionate developer and designer who loves creating innovative and impact
 - **Languages:** Python, JavaScript, Swift, HTML/CSS
 - **Frameworks & Libraries:** React, Node.js, SwiftUI, Django
 - **Design:** Figma, Adobe XD, Sketch
-- **Version Control:** Git, GitHub
-- **Other Tools:** N/a
 
 ## 🌱 What I'm Learning
 - Currently exploring **Machine Learning** and **AI integrations**.
