@@ -9,6 +9,6 @@ I'm a passionate developer and designer who loves creating innovative and impact
 
 ## 🌱 What I'm Learning
 - Currently exploring **Machine Learning** and **AI integrations**.
-- Diving deeper into **iOS development** with **SwiftUI**.
+- Diving deeper into **iOS development** with **Quantum Computing**.
 ---
 Thanks for stopping by! Feel free to explore my repositories and connect with me.
